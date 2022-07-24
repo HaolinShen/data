@@ -19,4 +19,4 @@ names: ['pineapple']  # class names
 
 
 # Download script/URL (optional)
-download: https://www.kaggle.com/datasets/alenshen/pineapple4/download?datasetVersionNumber=1
+download: https://datasetpineapple-1313050988.cos.ap-guangzhou.myqcloud.com/pineapple.zip
