@@ -15,8 +15,8 @@ test:  # test images (optional)
 
 # Classes
 nc: 10  # number of classes
-names: ['0','1','2','3','4','5','6','7','8','9']  # class names
+names: ['ship']  # class names
 
 
 # Download script/URL (optional)
-download: https://datasetnumberdetect-1313050988.cos.ap-guangzhou.myqcloud.com/data.zip
+download: https://datasetpineapple-1313050988.cos.ap-guangzhou.myqcloud.com/ship.zip
